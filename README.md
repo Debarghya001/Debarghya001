@@ -4,7 +4,7 @@
 
 ## I'm a Blogger, Student, Developer, and Photographer!!
 
-- 🔭I'm currently in my 1st year of B.Tech in Computer Science
+- 🔭I'm currently in my 2nd year of B.Tech in Computer Science
 - 🌱 I’m currently learning app and web development
 - 👯 I’m looking to engage more in Open Source Platform
 - ⚡ Intresting fact: I love to spent my time in blogging and in photography
