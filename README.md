@@ -21,4 +21,4 @@
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debarghya001&" alt="Debarghya001" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Debarghya001&bg_color=03111c&color=4c9e95&line=8c00ff&point=3c9fdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Debarghya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Debarghya001&bg_color=03111c&color=4c9e95&line=8c00ff&point=3c9fdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
