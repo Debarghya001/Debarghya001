@@ -7,7 +7,7 @@
 </p>
 
 
-- 🔭I'm currently in my 3rd year of B.Tech in Computer Science
+- 🔭I'm currently in my 4th year of B.Tech in Computer Science
 - 🌱 I’m currently learning app, web development and cybersecurity
 - 👯 I’m looking to engage more in Open Source Platform
 - ⚡ Intresting fact: I love to spent my time in blogging and in photography
@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/debarghya-mondal-314a361b4/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhradeep samanta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/debarghya-mondal-314a361b4/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debarghya Mondal" height="30" width="40" /></a>
 </p>
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debarghya001&show_icons=true&locale=en" alt="Debarghya001" /></p>
 
